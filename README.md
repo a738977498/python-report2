@@ -41,3 +41,4 @@
 
     print(f"{sqrt_math:.8f}")  
 # 實作
+https://github.com/a738977498/python-report2/blob/main/4.png
